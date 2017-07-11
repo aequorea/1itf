@@ -1,0 +1,16 @@
+1itf steps (using pymol)
+------------------------
+
+download 1itf.pdb from rcsb.org
+load 1itf.pdb in pymol
+type remove hydrogens
+save as 1itfm1.pdb -- this saves the first model in the NMR structure
+type findSurfaceResidues
+save atoms as 1itfm1_exposed_atm.pdb
+save residues as 1itfm1_exposed_res.pdb
+select helix, ss H
+save as 1itfm1_helix.pdb
+select sheet, ss S
+save as 1itfm1_sheet.pdb
+run gly21.py
+fix up incomplete sidechains as needed using mutate wizard and repeat above
