@@ -7,12 +7,12 @@ Glycosylating interferon alpha
 
 Interferon alpha is used to treat a variety of conditions where its antiviral and antitumor activities can be of benefit [Friedman (doi:10.1111%2Fj.1365-2125.2007.03055.x)]. This molecule and various glycoforms were extensively studied by Ceaglio et al. (doi:10.1016/j.biochi.2007.10.013). Using their own method to select potential glycosylation sites, an assortment of 14 individual N-linked glycoforms and a number of combinations were produced. I found the western blot analysis of the individual glycoforms to be of interest.
 
-# <p align="center">
-#   <img src="ceaglio-2008-western.png" width="500"/>
-# </p>
-# <p align="center">
-#   Figure 1A from Ceaglio et al. Biochimie 90 (2008) 437-449 (doi:10.1016/j.biochi.2007.10.013)
-# </p>
+<p align="center">
+  <img src="ceaglio-2008-western.png" width="500"/>
+</p>
+<p align="center">
+  Figure 1A from Ceaglio et al. Biochimie 90 (2008) 437-449 (doi:10.1016/j.biochi.2007.10.013)
+</p>
 
 The wild type molecule is glycosylated efficiently. There is a single band representing the O-linked glycoform. So what might one expect to see after introducing an N-linked glycosylation site into a protein that already has an efficiently glycosylated O-linked glycan? One might expect to see a population of molecules with O-linked glycans, a population with N-linked glycans and a population with both. That there might be populations with single glycans of one form of the other might be expected because the presence of the first glycan that is attached to the molecule might inhibit the attachment of the second. Of course one might also expect a population with both glycans because the presence of one glycan might not always block the attachment of the other. Indeed if we look closely at the data, in a number of cases we see evidence that the middle band sometimes appears to be split which might suggest the presence of two forms of singly glycosylated molecules along with a band that likely represents the doubly glycosylated form. Strikingly, we also sometimes see a fourth type of molecule in the data. We see a significant population of what appear to be completely unglycosylated molecules in almost every one of the molecules into which an N-linked glycosylation site was introduced. How does one explain this? How could the introduction of an N-linked glycosylation site inhibit the glycosylation of the original O-linked glycosylation site as well as having the introduced N-linked site fail to glycosylate, especially since the original wild type molecule is glycosylated so efficiently? I can't say that I know the answer to this question, but if we are producing artificially glycosylated molecules, it seems to me that one might prefer molecules that are efficiently expressed and efficiently glycosylated.
 
