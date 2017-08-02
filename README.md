@@ -22,12 +22,7 @@ We informally ascertain the glycosylation efficiency of the remaining molecules 
 
 In all, gly21 predicts 64 sites that might make good places to introduce N-linked glycosylation sites. Of the molecules produced by Ceaglio et al., gly21 predicts the following sites:
 
-9   = L9N,
-23  = R23N,
-77  = D77N,
-93  = L95T,
-125 = R125N,
-156 = Q158T.
+9 = L9N, 23 = R23N, 77 = D77N, 93 = L95T, 125 = R125N, and 156 = Q158T.
 
 So of the three sites that might be considered to be inefficiently expressed, P4N, F67N and F67T, gly21 does not predict any of them. Of the four most efficiently glycosylated molecules D77N, L95T, R23N and K70N, gly21 predicts three of them and gly21 predicts both of the two most efficiently glycosylated molecules D77N and L95T. Of the remaining molecules that are inefficiently glycosylated, gly21 predicts three of them, L9N, R125N and Q158T. So out of 14 molecules, if we consider the accuracy in discriminating between molecules that are efficiently expressed and glycosylated and those that aren't we arguably see 4 "misses" and 10 "hits." So it looks like our prediction accuracy on this data set is around 71%.
 
