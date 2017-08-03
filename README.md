@@ -5,7 +5,7 @@ Glycosylating interferon alpha
   <img src="1itfm1.png" width="500"/>
 </p>
 
-Interferon alpha is used to treat a variety of conditions where its antiviral and antitumor activities can be of benefit [Friedman (doi:10.1111%2Fj.1365-2125.2007.03055.x)]. This molecule and various glycoforms were extensively studied by Ceaglio et al. (doi:10.1016/j.biochi.2007.10.013). Using their own method to select potential glycosylation sites, an assortment of 14 individual N-linked glycoforms and a number of combinations were produced. I found the western blot analysis of the individual glycoforms which may be seen in figure 1A of Ceaglio et al. referenced above to be of interest.
+Interferon alpha is used to treat a variety of conditions where its antiviral and antitumor activities can be of benefit [Friedman Br J Clin Pharmacol. 2008 Feb; 65(2): 158–162 (doi:10.1111%2Fj.1365-2125.2007.03055.x)]. This molecule and various glycoforms were extensively studied by Ceaglio et al. Biochimie 90 (2008) 437-449 (doi:10.1016/j.biochi.2007.10.013). Using their own method to select potential glycosylation sites, an assortment of 14 individual N-linked glycoforms and a number of combinations were produced. I found the western blot analysis of the individual glycoforms which may be seen in figure 1A of Ceaglio et al. referenced above to be of interest.
 <!---
 <p align="center">
   <img src="ceaglio-2008-western.png" width="500"/>
